@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BtnCircleNib" customModule="E3mly_khedma" customModuleProvider="target">
+            <connections>
+                <outlet property="btn" destination="Vcp-m7-4y7" id="cL5-Sa-iHa"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="87v-QT-BA5"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="665" height="518"/>
+            <autoresizingMask key="autoresizingMask" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vcp-m7-4y7">
+                    <rect key="frame" x="112.5" y="44" width="440" height="440"/>
+                    <color key="backgroundColor" red="0.99607843139999996" green="0.74117647060000003" blue="0.38823529410000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="Vcp-m7-4y7" secondAttribute="height" multiplier="1:1" id="Z2R-69-hpg"/>
+                    </constraints>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain"/>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="Vcp-m7-4y7" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="HYy-JJ-ETQ"/>
+                <constraint firstItem="Vcp-m7-4y7" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="geE-6K-wOO"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Vcp-m7-4y7" secondAttribute="bottom" id="jxX-A7-gRr"/>
+                <constraint firstItem="Vcp-m7-4y7" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="kQm-9g-4S8"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="361.59420289855075" y="-38.839285714285715"/>
+        </view>
+    </objects>
+</document>
