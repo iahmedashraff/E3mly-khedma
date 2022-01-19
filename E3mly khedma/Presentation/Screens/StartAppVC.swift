@@ -26,7 +26,10 @@ class StartAppVC: UIViewController {
     
     // MARK: - IBAction
 
-
+    @IBAction func btnChangeLang(_ sender: Any) {
+        LocalizationManager.setLanguage()
+    }
+    
     // MARK: - Helper Functions
     func tapGesture(){
         viewLogin.addAction = {
@@ -35,7 +38,9 @@ class StartAppVC: UIViewController {
             self.present(vc, animated: true, completion: nil)
         }
         viewSkip.addAction = {
-            LocalizationManager.setLanguage()
+            let vc = UIStoryboard(name: "Home", bundle: nil).instantiateViewController(withIdentifier: "HomeVC") as! HomeVC
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: true, completion: nil)
         }
     }
     

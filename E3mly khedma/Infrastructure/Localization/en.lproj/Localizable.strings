@@ -1,10 +1,16 @@
+"arrow.left" = "arrow.left";
+
 "arrow.right" = "arrow.right";
 
 "Confirm you New Password" = "Confirm you New Password";
 
+"Contact us" = "Contact us";
+
 "Do You Have Account?" = "Do You Have Account?";
 
 "Don`t Have Account ?" = "Don`t Have Account ?";
+
+"Done" = "Done";
 
 "Email Address" = "Email Address";
 
@@ -14,15 +20,33 @@
 
 "Forget Password?" = "Forget Password";
 
+"Hi Welcome !" = "Hi Welcome !";
+
+"Home" = "Home";
+
+"In Pregress" = "In Pregress";
+
 "Last Named" = "Last Named";
 
 "Log In" = "Log In";
 
+"Log Out" = "Log Out";
+
 "Login Now" = "Login Now";
+
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry." = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
 
 "Message" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
 
+"My Orders" = "My Orders";
+
+"My Services" = "My Services";
+
 "New Password" = "New Password";
+
+"Not Done" = "Not Done";
+
+"Notifications" = "Notifications";
 
 "Password" = "Password";
 
@@ -34,8 +58,14 @@
 
 "Register Now" = "Register Now";
 
+"Request your service now" = "Request your service now";
+
 "Send Code Again" = "Send Code Again";
 
+"Settings" = "Settings";
+
 "Skip" = "Skip";
+
+"User Profile" = "User Profile";
 
 "Your National ID Number" = "Your National ID Number";

@@ -1,10 +1,16 @@
+"arrow.left" = "arrow.right";
+
 "arrow.right" = "arrow.left";
 
 "Confirm you New Password" = "تأكيد كلمة المرور الجديدة";
 
+"Contact us" = "تواصل معنا";
+
 "Do You Have Account?" = "هل تمتلك حساب؟";
 
 "Don`t Have Account ?" = "لا تمتلك حساب ؟";
+
+"Done" = "تم التنفيذ";
 
 "Email Address" = "البريد الإلكتروني";
 
@@ -14,15 +20,33 @@
 
 "Forget Password?" = "نسيت كلمة المرور؟";
 
+"Hi Welcome !" = "أهلا بيك !";
+
+"Home" = "الصفحة الرئيسية";
+
+"In Pregress" = "قيد التنفيذ";
+
 "Last Named" = "الإسم الأخير";
 
 "Log In" = "تسجيل الدخول";
 
+"Log Out" = "تسجيل الخروج";
+
 "Login Now" = "تسجيل الدخول";
+
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry." = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة";
 
 "Message" = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى";
 
+"My Orders" = "طلباتي";
+
+"My Services" = "خدماتي";
+
 "New Password" = "كلمة المرور الجديدة";
+
+"Not Done" = "لم تنفذ";
+
+"Notifications" = "الإشعارات";
 
 "Password" = "كلمة المرور";
 
@@ -34,8 +58,14 @@
 
 "Register Now" = "سجل الأن";
 
+"Request your service now" = "إطلب خدمتك الأن";
+
 "Send Code Again" = "إرسال الكود مجدداً";
 
+"Settings" = "الإعدادت";
+
 "Skip" = "تخطى";
+
+"User Profile" = "الصفحة الشخصية";
 
 "Your National ID Number" = "أدخل رقم بطاقتك الوطنية";
